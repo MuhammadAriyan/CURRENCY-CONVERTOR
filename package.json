@@ -1,0 +1,14 @@
+{
+  "name": "project(currency-convertor)",
+  "version": "1.0.0",
+  "bin":"./CC.js",
+  "type":"module",
+  "description": "there it is my currency convertor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "aryan",
+  "license": "ISC"
+}
